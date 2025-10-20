@@ -16,3 +16,6 @@
 - `*.tfplan` — пропускает все файлы с расширением .tfplan;
 - `*.terraformrc` — пропускает все файлы, оканчивающиеся на .terraformrc;
 - `terraform.rc` — пропускает файл с точным именем terraform.rc.
+
+4 задание выполнил в редакторе visual studio code. Он бесплатный и может тоже самое.
+<img src="img/img1.jpg" width="100%"> 
